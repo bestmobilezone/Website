@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Selling Mobile Phones ", "Mobile Repair Services", "Selling Accessories", "Mobile Exchange & Trade-In", "SIM & Mobile Setup Assistance"],
+        strings: ["Mobile Sales ", "Expert Repairs", "Accessories & More"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Selling Mobile Phones ", "Mobile Repair Services", "Selling Accessories", "Mobile Exchange & Trade-In", "SIM & Mobile Setup Assistance"],
+        strings: ["Mobile Sales ", "Expert Repairs", "Accessories & More"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
